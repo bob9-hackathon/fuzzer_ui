@@ -25,10 +25,6 @@ public:
 private slots:
     void on_starButton_clicked();
 
-    void on_sql_button_clicked();
-
-    void on_xss_button_clicked();
-
     void on_xss_button_clicked(bool checked);
 
     void on_sql_button_clicked(bool checked);
